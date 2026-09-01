@@ -1,4 +1,4 @@
-# 🤖 Maxx Discord Bot
+# Maxx Discord Bot
 
 Maxx is a simple Discord bot I built using **Python** and **discord.py**.
 
