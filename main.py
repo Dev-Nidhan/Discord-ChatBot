@@ -186,7 +186,7 @@ class MyClient(discord.Client):
 
                     # Make sure the amount is positive
                     if amount <= 0:
-                        await message.channel.send("Please provide a positive number!")
+                        await message.channel.send("Please provide a positive number")
                         return
 
                     # Perform the purge operation
